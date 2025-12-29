@@ -1,5 +1,8 @@
+
+
 /*--------------------------------------------------------------
 # Font & Color Variables
+
 --------------------------------------------------------------*/
 /* Fonts */
 :root {
@@ -930,17 +933,17 @@ section,
 
 .hero .welcome h2 {
   margin: 0;
-  font-size: 48px;
+  font-size: 38px;
   font-weight: 700;
 }
 
 .hero .welcome p {
-  font-size: 24px;
+  font-size: 18px;
   margin: 0;
 }
 
 .hero .content {
-  margin-top: 40px;
+  margin-top: 180px;
 }
 
 .hero .content .why-box {
